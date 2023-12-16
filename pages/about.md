@@ -20,9 +20,11 @@ Apart from writing, I like growing plants, playing on the Switch and going to ne
 
 ## Page
 
-My work has been published in many different magazines including *Neon Magazine*, *Feral Poetry* and *Welcome to Bear Creak*. I've been lucky enough to have work nominated for the Forward prize, Best of the Net and the Pushcart prize. [Here's a full list](/publications/) of my publications.
+My work has been published in many different magazines including *Neon Magazine*, *Feral Poetry* and *Welcome to Bear Creak*. I've been lucky enough to have work nominated for t 
 
-I've got two poetry pamphlets out, as well as other books. My first poetry pamphlet, <em><a href="/ourvoicesinthechaos/">Our Voices in the Chaos</a></em>, was published by Selcouth Station in October 2019. I self published a second tiny pamphlet in October 2020 called <em><a href="/refractionpamphlet/">Refraction.</a>
+he Forward prize, Best of the Net and the Pushcart prize. [Here's a full list](/publications/) of my publications.
+
+I've got two poetry pamphlets out, as well as other books. My first poetry pamphlet, <em><a href="/ourvoicesinthechaos/">Our Voices in the Chaos</a></em>, was published by Selcouth Station in October 2019. I self published a second tiny pamphlet in October 2020 called <em><a href="/refractionpamphlet/">Refraction.</a></em>
 
 I have a number of other books available, including three that are free to download. [Go here](/books/) to browse and download.
 

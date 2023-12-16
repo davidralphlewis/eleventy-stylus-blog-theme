@@ -6,11 +6,15 @@ h5
 h6
 p
   margin 0.75rem 0
-  font-weight 400
+  font-weight 500
 
 for i in (1..6)
   h{i}
     text_scale_size (7 - i)
+    color primary_color
+
+    body.dark &
+      color primary_color_dark
 
 small
   text_scale_size -1
@@ -24,6 +28,7 @@ a
 
   &:hover
     text-decoration underline
+    font-weight bold
 
 hr
   border-color rgba(0, 0, 0, 0.1)
