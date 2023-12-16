@@ -1,7 +1,7 @@
 ---
 title: Return to Me
-date: 28-11-2023
-categories: [poetry]
+date: 2023-11-28
+tags: [poetry]
 permalink:
 ---
 
