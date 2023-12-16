@@ -17,5 +17,17 @@
     "watch:11ty": "eleventy --serve",
     "build": "npm run build:stylus && npm run build:11ty",
     "dev": "concurrently -n stylus,11ty \"npm:watch:stylus\" \"npm:watch:11ty\""
-  }
+  },
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/a180e099-11d2-49d4-9697-910d56980343/deploy-status)](https://app.netlify.com/sites/eleventy-stylus-blog-theme/deploys)\r [![Build Status](https://travis-ci.com/ar363/eleventy-stylus-blog-theme.svg?branch=main)](https://travis-ci.com/ar363/eleventy-stylus-blog-theme)\r [![Vercel Status](https://vercel-badge-ar363.vercel.app/?app=eleventy-stylus-blog-theme)](https://github.com/ar363/eleventy-stylus-blog-theme/deployments/activity_log?environment=Production)",
+  "main": ".eleventy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidralphlewis/eleventy-stylus-blog-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/davidralphlewis/eleventy-stylus-blog-theme/issues"
+  },
+  "homepage": "https://github.com/davidralphlewis/eleventy-stylus-blog-theme#readme"
 }
